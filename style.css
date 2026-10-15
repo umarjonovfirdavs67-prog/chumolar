@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+
+
+
+header{
+    background-color: white;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+  
+}
+
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.umayvo p {
+    position: relative;
+    top: 150px;
+    display: flex;
+   margin-left: 200px;
+    font-size: 72px;
+    color: white;
+   
+}
+
+.sx{
+    position: relative;
+    top: -150px;
+}
+
+.chiqish{
+    display: flex;
+    padding: 50px;
+    gap: 20px;
+    background-color: transparent;
+    transition: all 0.5;
+}
+
+.chiqish:hover{
+    color: red;
+}
+
+
+.chiqish button{
+    width: 146px;
+    height: 40px;
+    border-radius: 1.5px;
+border: 1.5px solid #0a0a0a
+}
+
+.insult{
+    padding: 50px;
+}
+
+.siv{
+    height: 600px;
+    background-color: #2D2641;
+}
+
+.war{
+
+    font-size: 32px;
+     position: relative;
+  top: -400px;
+  margin: 200px;
+}
+
+.class{
+    margin: 200px;
+    font-size: 16px;
+    color: white;
+}
+
+.class button{
+       width: 146px;
+    height: 40px;
+    border-radius: 1.5px;
+    border: 1.5px solid #fcfcfc;
+    margin-top: 15px;
+}
+
+.semmi{
+ position: absolute;
+  right: 10%;   
+  bottom: -60px;   
+}
+
+.apachi{
+    width: 86px;
+    height: 86px;
+    background-color: #96A9C6;
+    border-radius: 50%;
+    text-align: center;
+    padding: 25px;
+}
+
+.apachi1{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: -550px;
+    gap: 100px;
+    margin-right: 150px;
+}
+
+.qw2{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: -300px;
+}
+
+.sthj{
+    width: 1110px;
+    height: 250px;
+    background-color: #2D2641;
+margin: 50px;
+margin-left: 150px;
+}
+
+.tundra{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+position: relative;
+top: 50px;
+color: white;
+
+}
+
+.tundra button{
+       width: 146px;
+    height: 40px;
+    border-radius: 1.5px;
+    border: 1.5px solid #fcfcfc
+}
+
+.BLOG{
+    height: 393px;
+    background-color: #FAFAFA;
+}
+
+.tr{
+display: flex;
+justify-content: space-between;
+padding: 50px;
+}
+
+.tv{
+display: flex;
+gap: 20px;
+}
+
+.sukunaat{
+    display: flex;
+    justify-content: space-between;
+   position: relative;
+   top: -200px;
+}
+
+
